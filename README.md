@@ -60,7 +60,7 @@ El archivo `test_files.py` contiene todas las pruebas unitarias necesarias para 
 
 ---
 ### Ejecución de Prueba de cobertura
-   - Para ejecutar las pruebas unitarias, utiliza el siguiente comando desde el directorio raíz del proyecto:
+   - Para ejecutar las pruebas de cobertura, utiliza el siguiente comando desde el directorio raíz del proyecto:
      ```bash
      coverage run -m unittest discover -s test -p "test_files.py"
      ```
